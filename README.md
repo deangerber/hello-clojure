@@ -19,7 +19,7 @@ To run the sample application.
 clj -m hello.core
 ~~~
 
-To execute the testcase.
+To execute the test case.
 
 ~~~ bash
 clj -A:test
@@ -33,7 +33,7 @@ To run the sample application.
 make run
 ~~~
 
-To execute the testcase.
+To execute the test case.
 
 ~~~ bash
 make test
