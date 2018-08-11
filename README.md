@@ -22,7 +22,7 @@ clj -m hello.core
 To execute the testcase.
 
 ~~~ bash
-clj -Atest
+clj -A:test
 ~~~
 
 ### Using the included Makefile
