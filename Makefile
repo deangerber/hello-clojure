@@ -4,4 +4,4 @@ run:
 	clj -m hello.core
 
 test:
-	clj -Atest
+	clj -A:test
